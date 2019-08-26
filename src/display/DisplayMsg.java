@@ -1,3 +1,5 @@
+package display;
+import WelcomeUser;
 
 public class DisplayMsg {
 
